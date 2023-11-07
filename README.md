@@ -1,14 +1,5 @@
 # Understanding Gitflow Workflow
 
-## Introduction to Gitflow
-- Definition of Gitflow
-- Importance of structured branching workflows
-
-## What is Gitflow?
-- Definition of Gitflow
-- Developed by Vincent Driessen
-- High-level overview
-
 ## Main Branches
 - **Master Branch**
   - Represents production-ready code
