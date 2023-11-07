@@ -77,7 +77,3 @@
 
 ## Questions and Discussion
 - Open the floor for any questions or comments from the audience.
-
-## Thank You
-- Your Contact Information
-- Any additional resources or references
