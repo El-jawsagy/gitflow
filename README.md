@@ -2,9 +2,14 @@
 
 ## Main Branches
 - **Master Branch**
-  - Represents production-ready code
-  - Always deployable
-  - Tagged with version numbers
+  - Represents production-ready code (the client live version)
+  - Always deployable (That mean the version must be bug free)
+  - Tagged with version numbers (always have a Tag Number like 1.0.0)
+  - 
+- **Staging Branch**
+  - Used for preparing a new release
+  - Branched off from `develop`
+  - Merged into `develop` and `master`
 
 - **Develop Branch**
   - Integration branch for ongoing work
@@ -17,10 +22,6 @@
   - Branched off from `develop`
   - Merged back into `develop`
 
-- **Release Branches**
-  - Used for preparing a new release
-  - Branched off from `develop`
-  - Merged into `develop` and `master`
 
 ## Supporting Branches (contd.)
 - **Hotfix Branches**
